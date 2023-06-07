@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @sunnymxc
-- 👀 I’m interested in Laravel & Vue js ...
+- 👀 I’m interested in Laravel PHP and Django Python,  ...
+- 👀 Javascript Frameworks - Vue.js, React.js, Angular.js & Node.js
 - 🌱 I’m currently learning bootstrap-vue
-- 💞️ I’m looking to collaborate on a School, healthcare & Construction Websites respectively
+- 💞️ I’m looking to collaborate on Fintech, E-commerce, Property and 
 - 📫 How to reach me enenchesimon@gmail.com
 
 <!---
